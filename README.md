@@ -1,1 +1,1 @@
-<h1>Calculadora De Multiplicação em JS</h1>
+<h1>Calculadora De Multiplicação em JS.</h1>
